@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Palestine</h3>
 
 - 🌱 I’m currently learning **React**
-- 🎓 Studies for Software Engineering at [An Najah National University](https://www.najah.edu/en/about/history-and-traditions/campus-life/campus/)
+- 🎓 I have studied Computer Engineering at [An Najah National University](https://www.najah.edu/en/about/history-and-traditions/campus-life/campus/)
 - ⚡ **Fun Facts** : 🍕 🍵
 - 📫 How to reach me **rana1997abumazen@gmail.com**
 
@@ -15,3 +15,6 @@
 ### Connect with me ☕ :
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ranaabumazen)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/rana-abumazen-180a72162/)
+
+<br><br>
+Credit: [Rana Abumazen](https://github.com/ranaabumazen)
